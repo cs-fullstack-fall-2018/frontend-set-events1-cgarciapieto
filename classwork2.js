@@ -22,3 +22,14 @@ reset1.addEventListener("reset", sumreset);
 function sumreset(){
 
 }
+
+/*
+
+Step 1:
+Complete
+
+Step 2:
+Almost. It looks like your reset button is being called, buy you don't have anything in the function.
+
+From Kenn
+*/
